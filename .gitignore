@@ -1,0 +1,6 @@
+kpigpio/build/
+kpigpio/.idea/
+kpigpio/.gradle/
+kpigpio/out/
+kpigpio/hs_err_pid*.log
+local.properties
