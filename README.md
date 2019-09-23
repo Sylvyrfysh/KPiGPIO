@@ -1,3 +1,5 @@
+[![](https://jitci.com/gh/Sylvyrfysh/KPiGPIO/svg)](https://jitci.com/gh/Sylvyrfysh/KPiGPIO)
+
 # KPiGPIO
 Kotlin/JVM Wrapper for PiGPIO
 
